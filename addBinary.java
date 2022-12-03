@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class addBinary4 {
+public class addBinary {
 
 	public static void main(String[] args) {
 		
