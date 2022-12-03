@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class continueBreak28 {
+public class continueBreak {
 
 	public static void main(String[] args) {
 	
