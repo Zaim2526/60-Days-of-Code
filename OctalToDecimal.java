@@ -1,4 +1,4 @@
-// Java Program to convert octal number into binary number.
+// Java Program to convert octal number into decimal number.
 
 public class OctalToDecimal{  
 public static void main(String args[]){  
