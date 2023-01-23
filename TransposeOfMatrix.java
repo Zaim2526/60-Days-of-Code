@@ -1,4 +1,4 @@
-
+// Java Program to find the transpose of a given matrix.
 public class TransposeOfMatrix    
 {    
     public static void main(String[] args) {    
